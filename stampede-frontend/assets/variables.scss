@@ -1,0 +1,13 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+$font-size-root: 20px;
+
+.text-leckerli {
+  font-family: "Leckerli One" !important;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: initial;
+  word-break: break-word;
+}
